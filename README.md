@@ -32,8 +32,7 @@ To run the PyBank script, open a terminal window and navigate to the directory w
 
 
 PyBank Output
-yaml
-Copy code
+
 Financial Analysis
 ----------------------------
 Total Months: 86
@@ -42,8 +41,8 @@ Average Change: $-8311.11
 Greatest Increase in Profits: Aug-16 ($1862002)
 Greatest Decrease in Profits: Feb-14 ($-1825558)
 PyPoll Output
-markdown
-Copy code
+
+
 Election Results
 -------------------------
 Total Votes: 369711
@@ -55,6 +54,8 @@ O'Tooley: 3.000% (10537)
 -------------------------
 Winner: Khan
 -------------------------
+
+
 Additionally, a text file (PyBankResults.txt or PyPollResults.txt) will be created in the same directory as the Python scripts, containing the same results as the terminal output.
 
 Conclusion
